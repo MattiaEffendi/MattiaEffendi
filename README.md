@@ -11,9 +11,9 @@ I'm also interested in DevOps, and a big fan of CI/CD.
 
 
 
-## Technologies i work with
+## Technologies I work with
 
-<center>
+<p align="left">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
 <img height="20" src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
@@ -25,7 +25,7 @@ I'm also interested in DevOps, and a big fan of CI/CD.
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
 <img height="20" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">
 <img height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-</center>
+</p>
 
 
 ## My GitHub statistics
