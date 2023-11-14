@@ -1,7 +1,6 @@
 # Hi, I'm Mattia 👨🏻‍💻
 
-I'm a 20 y/o software developer and student. I am mainly interested in full-stack web development and mobile development.
-I'm also interested in DevOps, and a big fan of CI/CD.
+I'm a 21 y/o software developer and DevOps engineer. At the moment i work as a DevOps engineer, but my experience also features full stack web development and mobile development. 
 
 
 ## My projects
