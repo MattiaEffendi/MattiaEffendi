@@ -1,6 +1,6 @@
 # Hi, I'm Mattia 👨🏻‍💻
 
-I'm a 21 y/o software developer and DevOps engineer. At the moment i work as a DevOps engineer, but my experience also features full stack web development and mobile development. 
+I'm a 22 y/o software developer and DevOps engineer. At the moment i work as a DevOps engineer, but my experience also features full stack web development and mobile development. 
 
 
 ## My projects
